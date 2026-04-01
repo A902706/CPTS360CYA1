@@ -1,1 +1,14 @@
 # CPTS360CYA1
+Andres Sanchez
+CPTS360
+Professor Ananth Jillepalli
+CYA1
+
+My choesen adventure for this assignment is the national SHPE conference.
+I participated in this conference with the goal to get out of my comfort zone and get expereince with talking to recruiters.
+
+CYA –1 Reflection 
+
+I had a great time at the SHPE national conference. This was my second time participating in this convention where we apply for internships, talk to recruiters, and possibly get interviewed for a internship position. There were over 200+ companies all with the power to make Somone's dream come true. It was a great opportunity to put myself out there. Get comfortable talking to recruiters and other students. I mention that as during my first year here at WSU I was not social, I feared interaction which doesn't help the stereotype being a CS major. My goal for this conference was to become an effective communicator about my skills, my projects, and honestly getting out of my comfort zone. More specifically I discovered, why I do what I do? I think it’s a hard question to answer because we graduate high school and straight out of high school we are expected to choose our destiny. This so-called destiny is what we are going to devote our life to for the next couple of years. On my journey from high school I landed in software engineering, I found it fun, and cool. I mean who wouldn’t want to see their imagination come to life. However, that was my idea. I felt like I knew why I wanted to do it. But when a recruiter asked me during my first SHPE conference, I didn’t, I blanked, and of course they lost interest. Both SHPE conferences exposed me to this 1 on 1 experience where I gained confidence to talk about myself, my experience, and put it into something meaningful. I am able to confidentially approach anyone and start a conversation, and most importantly talk to my professors if I need help. If you were to ask me why I do what I do? It’s simple for the benefit of the people. I like to create things that help simplify everyday tasks. For example, one of my personal projects I’m working on is transferring playlists between Spotify and Apple. I mean a lot of us have playlists from when we were in middle school, we are talking about hundreds of songs on a playlist. Eventually one day we switch apps and instead of creating our old playlists we just start over. It’s not worth the time to recreate it. Luckily, my program once completed will do it seamlessly. That’s why I do what I do. If my programs can help at least one person, I completed my goal. In short participating in these conferences gave me the confidence and skills to interact with people which is needed for the tech industry and honestly every day life.  
+
+NOTE: 446 words in the reflection if you guys need it for grading criteria.
